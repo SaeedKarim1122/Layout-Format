@@ -16,13 +16,6 @@
 
 .item {}
 
-
-/* .item:before {
-    background-color: red;
-    counter-increment: css-counters;
-    content: counters(css-counters, ".") " ";
-} */
-
 .item:nth-of-type(1) {
     background-color: rgb(71, 71, 230);
     grid-row: 1/5;
